@@ -1,0 +1,5 @@
+{
+  "name": "Lego Studio 3D",
+  "description": "A fully functional 3D Lego building editor with snapping, multiple brick types, colors, and an AI assistant for creative inspiration.",
+  "requestFramePermissions": []
+}
